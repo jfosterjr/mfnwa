@@ -1,0 +1,23 @@
+{
+  "name": "mfnwa",
+  "version": "1.0.0",
+  "description": "My first Node based web application",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfosterjr/mfnwa.git"
+  },
+  "author": "Jay Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfosterjr/mfnwa/issues"
+  },
+  "homepage": "https://github.com/jfosterjr/mfnwa#readme"
+}
